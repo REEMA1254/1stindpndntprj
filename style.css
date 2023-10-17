@@ -1,0 +1,22 @@
+#map {
+    height: 400px;
+    width: 100%;
+}
+
+#search, #directions, #favorite-places {
+    margin: 20px;
+}
+
+#favorite-list {
+    list-style-type: none;
+    padding: 0;
+}
+
+#favorite-list li {
+    margin-bottom: 10px;
+}
+
+button {
+    padding: 5px 10px;
+    margin-left: 10px;
+}
